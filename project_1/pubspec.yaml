@@ -57,13 +57,7 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   assets:
-    - lib/assets/Splash Screen.jpg
     - lib/assets/Logo.png
-    - lib/assets/Sign in.png
-    - lib/assets/Sign in Buttom.png
-    - lib/assets/Icons.png
-    - lib/assets/Description.png
-    - lib/assets/Arrow Back.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
